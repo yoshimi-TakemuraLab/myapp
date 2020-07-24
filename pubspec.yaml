@@ -62,6 +62,7 @@ flutter:
     - family: Pacifico
       fonts:
         - asset: fonts/Pacifico.ttf
+        
   #   - family: Schyler
   #     fonts:
 
