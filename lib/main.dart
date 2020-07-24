@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
           child: Image(image: AssetImage('images/alpaca_gifanime.gif')),
         ),
         appBar: AppBar(
-          title: Text('I am alpaca in the Sky'),
+          title: Text('I am alpaca in the sky'),
           backgroundColor: Colors.red,
         ),
       ),
