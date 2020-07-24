@@ -50,6 +50,21 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
+  fonts:
+    - family: Snap
+      fonts:
+        - asset: fonts/SNAP-font.ttf
+
+    - family: vladimir
+      fonts:
+        - asset: fonts/VLADIMIR.TTF    
+
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico.ttf
+  #   - family: Schyler
+  #     fonts:
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
