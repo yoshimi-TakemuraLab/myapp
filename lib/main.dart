@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('images/alpaca_gifanime.gif'),
               ),
               Text(
-                'Mr. Alpaca',
+                'Mr. Alpaca San',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
                   fontSize: 40.0,
